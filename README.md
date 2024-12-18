@@ -35,8 +35,3 @@ An interactive dashboard providing quick & latest sales insights in order to sup
 - Sales team able to take better decision .
 - Sales analysts stop data gathering manually in order to save 20% of their business time & reinvest it in value added activity.
 
-
-|**Sr.No. 🔢**|**References 👨‍💻**| **Links :link:**|
-|------|--------------------|---------------------|
-|1| **Tableau Project Dashboard :** Sales Insights - Data Analysis using Tableau | [Dashboard](https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)|
-
